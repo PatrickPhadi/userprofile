@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/userprofile/static/css/main.7c1c28f9.chunk.css",
-    "main.js": "/userprofile/static/js/main.759c6de2.chunk.js",
-    "runtime-main.js": "/userprofile/static/js/runtime-main.c2142681.js",
-    "static/js/2.43906b03.chunk.js": "/userprofile/static/js/2.43906b03.chunk.js",
-    "static/js/3.22c9c7e7.chunk.js": "/userprofile/static/js/3.22c9c7e7.chunk.js",
+    "main.js": "/userprofile/static/js/main.fbcbd353.chunk.js",
+    "runtime-main.js": "/userprofile/static/js/runtime-main.e6847271.js",
+    "static/js/2.0b8de168.chunk.js": "/userprofile/static/js/2.0b8de168.chunk.js",
+    "static/js/3.9121f0e3.chunk.js": "/userprofile/static/js/3.9121f0e3.chunk.js",
     "index.html": "/userprofile/index.html",
-    "static/js/2.43906b03.chunk.js.LICENSE.txt": "/userprofile/static/js/2.43906b03.chunk.js.LICENSE.txt",
+    "static/js/2.0b8de168.chunk.js.LICENSE.txt": "/userprofile/static/js/2.0b8de168.chunk.js.LICENSE.txt",
     "static/media/calendar.687aa101.svg": "/userprofile/static/media/calendar.687aa101.svg",
     "static/media/call.f36e4177.svg": "/userprofile/static/media/call.f36e4177.svg",
     "static/media/email.e8d17d74.svg": "/userprofile/static/media/email.e8d17d74.svg",
@@ -15,9 +15,9 @@
     "static/media/user.815f635c.svg": "/userprofile/static/media/user.815f635c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c2142681.js",
-    "static/js/2.43906b03.chunk.js",
+    "static/js/runtime-main.e6847271.js",
+    "static/js/2.0b8de168.chunk.js",
     "static/css/main.7c1c28f9.chunk.css",
-    "static/js/main.759c6de2.chunk.js"
+    "static/js/main.fbcbd353.chunk.js"
   ]
 }
